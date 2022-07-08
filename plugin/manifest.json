@@ -26,6 +26,7 @@
     {
       "matches": [
         "https://*.instructure.com/*",
+        "https://bruinlearn.ucla.edu/*",
         "https://canvas.vt.edu/*",
         "https://canvas.oregonstate.edu/*",
         "https://canvas.uw.edu/*",
